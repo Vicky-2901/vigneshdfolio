@@ -233,11 +233,11 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          //url: "http://nextu.se/"
+          url: "https://vigneshdfolio.netlify.app/"
         },
         {
           name: "View on GitHub",
-          url: "https://github.com/Vicky-2901"
+          url: "https://github.com/Vicky-2901/vigneshdfolio"
         }
       ]
     }
