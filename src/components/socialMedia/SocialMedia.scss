@@ -68,6 +68,23 @@
   background-color: $instagram;
 }
 
+.leetcode i {
+  background-color: #F0932B;
+}
+
+.hackerrank i {
+  background-color: white;
+  background-image: url('https://cdn.worldvectorlogo.com/logos/hackerrank.svg');
+  background-size: 60%;
+  background-repeat: no-repeat;
+  background-position: center;
+  vertical-align: middle;
+  display: inline-block;
+  line-height: 2.6rem;
+  height: 2.6rem;
+  width: 2.6rem;
+}
+
 /* Hover Transition */
 .twitter i:hover,
 .google i:hover,
@@ -78,7 +95,9 @@
 .instagram i:hover,
 .stack-overflow i:hover,
 .kaggle i:hover,
-.medium i:hover {
+.medium i:hover,
+.leetcode i:hover,
+.hackerrank i:hover {
   background-color: $textColor;
 }
 

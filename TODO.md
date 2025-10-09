@@ -1,0 +1,1 @@
+- [x] Update src/portfolio.js: Add "View on GitHub" footerLink to each project in bigProjects
